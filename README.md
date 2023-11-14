@@ -10,8 +10,8 @@
   <br>
   
   <ul align="center" >
-   <li align="left"> 🔭 I’m currently working on Havelsan</li>
-    <li align="left"> 🌱 I’m currently trying to learn Distributed Systems</li>
+   <li align="left"> 🔭 I’m currently working on Distributed Systems at Havelsan</li>
+    <li align="left"> 🌱 I’m currently trying to AI and Cloud Technologies</li>
     <li align="left"> 👯 I’m looking to collaborate on C/C++ projects.</li>
     <li align="left"> 💬 Ask me about embedded systems</li>
     <li align="left"> 📫 In order to reach me, u can use my <a href="https://www.linkedin.com/in/selcukaltinay">linkedin.</a></li>
